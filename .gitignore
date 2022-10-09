@@ -1,0 +1,5 @@
+binutils-2.37/*
+gcc-11.2.0/*
+binutils-build/*
+gcc-build/*
+.DS_Store
